@@ -27,15 +27,15 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "2f7a331f9f899bb340730ff6ca8065ec"
+    "revision": "73aad0a6a838e388648a08e68733a41e"
   },
   {
     "url": "about.html",
-    "revision": "d343fbd95840dcc2fff84aa0de369268"
+    "revision": "9ad779d25fc64ad5357f2fb757276529"
   },
   {
     "url": "about2.html",
-    "revision": "0b469e30351ce7a96f673eba902040e6"
+    "revision": "ae561d9807d7c316629be8aa5c7c6ccc"
   },
   {
     "url": "assets/css/0.styles.33e7aebc.css",
@@ -174,32 +174,32 @@ self.__precacheManifest = [
     "revision": "82a163ec0b22b450ca3d8bbc3db934b8"
   },
   {
-    "url": "assets/js/28.95b64f7f.js",
-    "revision": "4c6524b91c00712463df416adcd2f20b"
+    "url": "assets/js/28.c4aca446.js",
+    "revision": "18a42264f6473ae8a9f6831bea805d56"
   },
   {
-    "url": "assets/js/29.0c1e243b.js",
-    "revision": "e5a45f1bb7531f23e399a937bb69ff57"
+    "url": "assets/js/29.db655d9f.js",
+    "revision": "eca2d57e48121400dfad47df8edbcf53"
   },
   {
     "url": "assets/js/3.d9f5cb60.js",
     "revision": "1fb0dfbe3695f57b1ee6ffe5fdbf76f5"
   },
   {
-    "url": "assets/js/30.2cf88f4c.js",
-    "revision": "305198bb640f0c09475fe954a769f92e"
+    "url": "assets/js/30.94902d02.js",
+    "revision": "881def40bfd973787ca6495c77a49d7f"
   },
   {
     "url": "assets/js/31.5026041e.js",
     "revision": "73ff35f12f8bcb0d77b4ba94d1f42219"
   },
   {
-    "url": "assets/js/32.4d660c3e.js",
-    "revision": "4c99d68ae3cafcdca3fd207ce1d4cca0"
+    "url": "assets/js/32.02c3e0c4.js",
+    "revision": "c602eb897d36fee7166c51cfd56fcde6"
   },
   {
-    "url": "assets/js/33.0dd9fcd8.js",
-    "revision": "275e83e2da56c118ab30b7c24daf3181"
+    "url": "assets/js/33.cf58f6bf.js",
+    "revision": "1f59eed2bd6b22bfbbe9624437bfe903"
   },
   {
     "url": "assets/js/34.bd7bdc65.js",
@@ -238,8 +238,8 @@ self.__precacheManifest = [
     "revision": "8bcd9175da18a52a59c16c2bacbd0a5c"
   },
   {
-    "url": "assets/js/app.693b2946.js",
-    "revision": "7ada08ee22a36606a68cba2ebd13a349"
+    "url": "assets/js/app.c0d09fd6.js",
+    "revision": "a8bfc42daaa86b75b214d56af6e86194"
   },
   {
     "url": "assets/js/vendors~docsearch.72eb81cf.js",
@@ -251,11 +251,11 @@ self.__precacheManifest = [
   },
   {
     "url": "guide.md/index.html",
-    "revision": "ea3c23f7f0f5cb22002c5afd0c0009bb"
+    "revision": "43beb406d7871303e664c2b9501fbd66"
   },
   {
     "url": "gyw.html",
-    "revision": "4ba42a90b2a7a8f7188e23244172bc6c"
+    "revision": "52a993f702cb707beeff9259677832f2"
   },
   {
     "url": "icons/android-chrome-192x192.png",
@@ -311,7 +311,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "6b7fcde159a66f49ed9b03c66b88faee"
+    "revision": "d871516fe8c0f815b57c054f9192c154"
   },
   {
     "url": "js/custom.js",
@@ -319,23 +319,23 @@ self.__precacheManifest = [
   },
   {
     "url": "导航站/导航2.html",
-    "revision": "cc325f28139569acb2d8ad8fd4cce8ff"
+    "revision": "b7c60fe1bc6e8b5b4d865a7525295174"
   },
   {
     "url": "技术文章/博客插件/插件文章.html",
-    "revision": "7955f2cefe1a7d9d0fd9eb2780823715"
+    "revision": "f94b00a21518c7fc8c3077490dad2096"
   },
   {
     "url": "技术文章/建站指南/pl.html",
-    "revision": "f869b995cae53bd3b567d9ca08babce5"
+    "revision": "41d7102ad7b632516dbbe90d5dcc2f98"
   },
   {
     "url": "技术文章/建站指南/senran03.html",
-    "revision": "e61eb67c1267aebe05e9de6f941aa725"
+    "revision": "3b1560b2d0ce3ce63ddd368999bd0674"
   },
   {
     "url": "电商自媒体/life.html",
-    "revision": "5337490c8622225652088c33f10fd564"
+    "revision": "a3cb97b77aa71f43cd12a7185eabecf8"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
